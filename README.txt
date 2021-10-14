@@ -19,7 +19,7 @@ The folder "IMAGES_LABELED" (compressed) contains photographs of each sample, wi
 
 Behavioral data are in the BEHAVIORAL.xlxs table. The first column indicates the category, the second the material sample (coded as in the filenames of the vibratory signals and the images), the third column indicates the participant number (1-11). The remaining column indicate the descriptors used for the ratings, with the same labels described in the manuscript. 
 
-For any question do not exitate to contact us.
+For any question do not hesitate to contact us.
 
 matteo_toscani@msn.com
 metzger.anna@gmx.de
